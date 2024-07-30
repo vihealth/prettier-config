@@ -1,0 +1,7 @@
+{
+	"name": "@vihealth/prettier-config",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"description": "Vi's configuration for Prettier"
+}
