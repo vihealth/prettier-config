@@ -3,5 +3,8 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"license": "MIT",
-	"description": "Vi's configuration for Prettier"
+	"description": "Vi's configuration for Prettier",
+	"dependencies": {
+		"prettier": "^3.3.3"
+	}
 }
